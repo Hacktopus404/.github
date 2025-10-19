@@ -1,5 +1,8 @@
 <!-- Header Animation / Logo -->
-<h1 align="center">🐙 Hacktopus404</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/31/98/51/319851bf6426e6d5c78d6c5b5adecd75.gif" alt="Tech Team Animated Banner" width="900"/>
+</p>
+<h1 align="center">🐙Hacktopus404</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hacktopus404/hacktopus-showcase/main/assets/hacktopus-banner.gif" alt="Hacktopus404 Banner" width="100%"/>
@@ -20,13 +23,17 @@ From **idea to implementation**, we love turning caffeine ☕ and creativity �
 
 ### 🧠 Tech Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI/ML-Python-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
 ---
 
 ### 🏆 Achievements
