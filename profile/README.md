@@ -67,8 +67,8 @@ From **idea to implementation**, we love turning caffeine ☕ and creativity �
 ### 🧩 Team Roles
 | Name | Role | Focus Area |
 |------|------|-------------|
-| 🧑‍💻 Asmit Mandal | Team Lead | Full Stack,Spring Boot, AI, System Design |
-| 👩‍💻 Amrit Mondal | AI/ML Lead & Team Co-Lead| Model Design, TensorFlow, GenAI, NLP, LLM |
+| 🧑‍💻 Asmit Mandal |Backend Lead | Full Stack,Spring Boot, AI, System Design |
+| 👩‍💻 Amrit Mondal | AI/ML Lead & Team Lead| Model Design, TensorFlow, GenAI, NLP, LLM |
 | 👨‍🎨  Jit Mondal  | Frontend Lead & Team Co-Lead | React, Tailwind CSS, Angular |
 | 👩‍🔧  Aditya Das  | Frontend & Backend Engineer | Spring Boot, MongoDB, React |
 | 👨‍💼 Satyam Yadav | AI/ML Engineer | Tensorflow, Keras, |
