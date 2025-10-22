@@ -60,20 +60,17 @@ From **idea to implementation**, we love turning caffeine ☕ and creativity �
   <a href="https://github.com/teammate2"><img src="https://avatars.githubusercontent.com/amritmondal9641-arch" width="100" style="border-radius:50%;"/></a>
   <a href="https://github.com/teammate2"><img src="https://avatars.githubusercontent.com/Jit338" width="100" style="border-radius:50%;"/></a>
   <a href="https://github.com/teammate2"><img src="https://avatars.githubusercontent.com/AdityaDas5501" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/teammate2"><img src="https://avatars.githubusercontent.com/Satyam12Yadav" width="100" style="border-radius:50%;"/></a>
   <a href="https://github.com/teammate3"><img src="https://avatars.githubusercontent.com/Deep150106" width="100" style="border-radius:50%;"/></a>
 </p>
 
 ### 🧩 Team Roles
 | Name | Role | Focus Area |
 |------|------|-------------|
-| 🧑‍💻 Asmit Mandal |Backend Lead | Full Stack,Spring Boot, AI, System Design |
-| 👩‍💻 Amrit Mondal | AI/ML Lead & Team Lead| Model Design, TensorFlow, GenAI, NLP, LLM |
-| 👨‍🎨  Jit Mondal  | Frontend Lead & Team Co-Lead | React, Tailwind CSS, Angular |
+| 🧑‍💻 Asmit Mandal |Team Lead & Backend Lead | Full Stack,Spring Boot, AI, System Design |
+| 👩‍💻 Amrit Mondal | AI/ML Lead & Team Co-Lead| Model Design, TensorFlow, GenAI, NLP, LLM |
+| 👨‍🎨  Jit Mondal  | Frontend Lead | React, Tailwind CSS, Angular |
 | 👩‍🔧  Aditya Das  | Frontend & Backend Engineer | Spring Boot, MongoDB, React |
-| 👨‍💼 Satyam Yadav | AI/ML Engineer | Tensorflow, Keras, |
 | 👩‍🔧  Kishalaya Maji  | Frontend Engineer | JavaScript, React, Tailwind CSS|
-| 👩‍🔧  Jaganmohan Chukka  | Frontend Engineer | CSS, Javascript, React |
 
 ---
 ## 🧩Dynamic Stats & Contributions
