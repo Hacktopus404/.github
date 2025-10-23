@@ -56,11 +56,11 @@ From **idea to implementation**, we love turning caffeine ☕ and creativity �
 ---
 ### 👥 Our Team
 <p align="center">
-  <a href="https://github.com/asmitmandal"><img src="https://avatars.githubusercontent.com/Asmit159" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/teammate2"><img src="https://avatars.githubusercontent.com/amritmondal9641-arch" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/teammate2"><img src="https://avatars.githubusercontent.com/Jit338" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/teammate2"><img src="https://avatars.githubusercontent.com/AdityaDas5501" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/teammate3"><img src="https://avatars.githubusercontent.com/Deep150106" width="100" style="border-radius:50%;"/></a>
+  <a href="https://github.com/Asmit159"><img src="https://avatars.githubusercontent.com/Asmit159" width="100" style="border-radius:50%;"/></a>
+  <a href="https://github.com/amritmondal9641-arch"><img src="https://avatars.githubusercontent.com/amritmondal9641-arch" width="100" style="border-radius:50%;"/></a>
+  <a href="https://github.com/Jit338"><img src="https://avatars.githubusercontent.com/Jit338" width="100" style="border-radius:50%;"/></a>
+  <a href="https://github.com/AdityaDas5501"><img src="https://avatars.githubusercontent.com/AdityaDas5501" width="100" style="border-radius:50%;"/></a>
+  <a href="https://github.com/Deep150106"><img src="https://avatars.githubusercontent.com/Deep150106" width="100" style="border-radius:50%;"/></a>
 </p>
 
 ### 🧩 Team Roles
