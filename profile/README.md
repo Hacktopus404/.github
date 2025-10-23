@@ -39,9 +39,9 @@ From **idea to implementation**, we love turning caffeine ☕ and creativity �
 ### 🏆 Achievements
 | Year | Event | Achievement |
 |------|--------|-------------|
-| 2025 | SIH | 🥇--- |
-| 2025 | Flipkart Grid | 🏅 --- |
-| 2024 | SmartHack | 💡 --- |
+| 2026 | SIH | 🥇--- |
+| 2026 | Flipkart Grid | 🏅 --- |
+| 2026 | SmartHack | 💡 --- |
 
 ---
 
@@ -60,7 +60,7 @@ From **idea to implementation**, we love turning caffeine ☕ and creativity �
   <a href="https://github.com/amritmondal9641-arch"><img src="https://avatars.githubusercontent.com/amritmondal9641-arch" width="100" style="border-radius:50%;"/></a>
   <a href="https://github.com/Jit338"><img src="https://avatars.githubusercontent.com/Jit338" width="100" style="border-radius:50%;"/></a>
   <a href="https://github.com/AdityaDas5501"><img src="https://avatars.githubusercontent.com/AdityaDas5501" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/Deep150106"><img src="https://avatars.githubusercontent.com/Deep150106" width="100" style="border-radius:50%;"/></a>
+  <a href="https://github.com/Kishalaya15"><img src="https://avatars.githubusercontent.com/Kishalaya15" width="100" style="border-radius:50%;"/></a>
 </p>
 
 ### 🧩 Team Roles
