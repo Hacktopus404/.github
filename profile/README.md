@@ -68,8 +68,8 @@ From **idea to implementation**, we love turning caffeine ☕ and creativity �
 |------|------|-------------|
 | 🧑‍💻 Asmit Mandal |Team Lead & Backend Lead | Full Stack,Spring Boot, AI, System Design |
 | 👩‍💻 Amrit Mondal | AI/ML Lead & Team Co-Lead| Model Design, TensorFlow, GenAI, NLP, LLM |
-| 👨‍🎨  Jit Mondal  | Frontend Lead | React, Tailwind CSS, Angular |
-| 👩‍🔧  Aditya Das  | Frontend & Backend Engineer | Spring Boot, MongoDB, React |
+| 👨‍🎨  Aditya Das  | Frontend Lead | React, Tailwind CSS, Angular |
+| 👩‍🔧  Jit Mondal  | Frontend & Backend Engineer | Spring Boot, MongoDB, React |
 | 👩‍🔧  Kishalaya Maji  | Frontend Engineer | JavaScript, React, Tailwind CSS|
 
 ---
