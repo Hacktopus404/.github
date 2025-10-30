@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founded-2024-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Founded-2025-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Domain-FullStack+AI-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Hackathons+OpenSource-blue?style=for-the-badge"/>
 </p>
@@ -67,17 +67,17 @@
 <tr>
   <td>2026</td>
   <td>SIH</td>
-  <td>🥇 <b>National Winner – AI Innovation Track</b></td>
+  <td>🥇 <b></b></td>
 </tr>
 <tr>
   <td>2026</td>
   <td>Flipkart Grid</td>
-  <td>🏅 <b>National Finalists – Product Engineering</b></td>
+  <td>🏅 <b></b></td>
 </tr>
 <tr>
   <td>2026</td>
   <td>SmartHack</td>
-  <td>💡 <b>Top 10 – Full Stack Solution Design</b></td>
+  <td>💡 <b></b></td>
 </tr>
 </table>
 
