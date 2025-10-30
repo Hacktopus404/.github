@@ -1,105 +1,180 @@
-<!-- Header Animation / Logo -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/31/98/51/319851bf6426e6d5c78d6c5b5adecd75.gif" alt="Tech Team Animated Banner" width="900"/>
-</p>
-<h1 align="center">🐙Hacktopus404</h1>
+<!-- 🐙 Hacktopus404 - Next Generation README -->
 
+<!-- HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hacktopus404/hacktopus-showcase/main/assets/hacktopus-banner.gif" alt="Hacktopus404 Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=🐙%20Hacktopus404&fontSize=48&fontColor=EAEAEA&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>⚡ Innovators | Builders | Coders | Hackathon Enthusiasts</b><br>
-  <em>We Code. We Build. We Conquer Hackathons.</em>
+  <b>💥 Hackathon Dominators | AI Builders | Full Stack Ninjas 💥</b><br>
+  <em>From caffeine ☕ to creation 💡 — we turn ideas into impact.</em>
 </p>
 
----
 
-### 🚀 About Us
-We are a **multidisciplinary team** of developers, designers, and AI enthusiasts building full-stack and AI-powered projects for hackathons and open-source competitions.  
-From **idea to implementation**, we love turning caffeine ☕ and creativity 💡 into production-grade software.
+<h2 align="center">
+  <span style="font-size:25px;">🐙 <b>Hacktopus404</b></span><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=00C0FF&center=true&vCenter=true&width=800&lines=Innovators+%7C+Builders+%7C+Hackathon+Enthusiasts;We+Code.+We+Build.+We+Conquer+Hackathons!;AI+%26+Full+Stack+Experts+from+India" alt="Typing Animation">
+</h2>
 
----
-
-### 🧠 Tech Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/Hacktopus404/hacktopus-showcase/main/assets/hacktopus-banner.gif" alt="Hacktopus Banner" width="100%"/>
 </p>
----
-
-### 🏆 Achievements
-| Year | Event | Achievement |
-|------|--------|-------------|
-| 2026 | SIH | 🥇--- |
-| 2026 | Flipkart Grid | 🏅 --- |
-| 2026 | SmartHack | 💡 --- |
 
 ---
 
-### 📂 Featured Repositories
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [🚀 hacktopus-showcase](https://github.com/Hacktopus404/hacktopus-showcase) | Main project & hackathon submissions | MERN + Spring Boot |
-| [🤖 ai-core](https://github.com/Hacktopus404/ai-core) | Core AI research and model training | Python, TensorFlow |
-| [🧱 backend](https://github.com/Hacktopus404/backend) | RESTful APIs & microservices | Spring Boot |
-| [💻 frontend](https://github.com/Hacktopus404/frontend) | UI/UX and integration layer | React, Tailwind CSS |
+<!-- ABOUT SECTION -->
+<h2 align="center">🚀 About Us</h2>
 
----
-### 👥 Our Team
 <p align="center">
-  <a href="https://github.com/Asmit159"><img src="https://avatars.githubusercontent.com/Asmit159" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/amritmondal9641-arch"><img src="https://avatars.githubusercontent.com/amritmondal9641-arch" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/Jit338"><img src="https://avatars.githubusercontent.com/Jit338" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/AdityaDas5501"><img src="https://avatars.githubusercontent.com/AdityaDas5501" width="100" style="border-radius:50%;"/></a>
-  <a href="https://github.com/Kishalaya15"><img src="https://avatars.githubusercontent.com/Kishalaya15" width="100" style="border-radius:50%;"/></a>
+  <b>Hacktopus404</b> is a <em>multidisciplinary technology collective</em> of developers, designers, and AI enthusiasts building <b>full-stack, AI-powered, and hackathon-grade projects</b>.  
+  From <b>concept to deployment</b>, we turn caffeine ☕ and creativity 💡 into world-class software.
 </p>
 
-### 🧩 Team Roles
-| Name | Role | Focus Area |
-|------|------|-------------|
-| 🧑‍💻 Asmit Mandal |Team Lead & Backend Lead | Full Stack,Spring Boot, AI, System Design |
-| 👩‍💻 Amrit Mondal | AI/ML Lead & Team Co-Lead| Model Design, TensorFlow, GenAI, NLP, LLM |
-| 👨‍🎨  Aditya Das  | Frontend Lead | React, Tailwind CSS, Angular |
-| 👩‍🔧  Jit Mondal  | Frontend & Backend Engineer | Spring Boot, MongoDB, React |
-| 👩‍🔧  Kishalaya Maji  | Frontend Engineer | JavaScript, React, Tailwind CSS|
-
----
-## 🧩Dynamic Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacktopus404&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktopus404&layout=compact&theme=radical" height="150"/>
+  <img src="https://img.shields.io/badge/Founded-2024-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-FullStack+AI-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Hackathons+OpenSource-blue?style=for-the-badge"/>
 </p>
 
 ---
-### 💬 **5. Contribution Guidelines**
-In your `.github` repo or a separate `CONTRIBUTING.md`, add:
+
+<!-- TECH STACK -->
+<h2 align="center">🧠 Tech Arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mongodb,python,tensorflow,java,docker,git,github,tailwind&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%2C%20TailwindCSS%2C%20Angular-%23F72585?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-SpringBoot%2C%20Express.js-%23B5179E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI/ML-TensorFlow%2C%20GenAI%2C%20LLMs-%234A0D67?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB%2C%20PostgreSQL-%230087B3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud/Docker-Azure%2C%20Docker%2C%20CI/CD-%231967D2?style=for-the-badge"/>
+</p>
 
 ---
-### 🧑‍💻 How to Contribute
+
+<!-- ACHIEVEMENTS -->
+<h2 align="center">🏆 Our Achievements</h2>
+
+<table align="center">
+<tr>
+  <th>Year</th>
+  <th>Event</th>
+  <th>Achievement</th>
+</tr>
+<tr>
+  <td>2026</td>
+  <td>SIH</td>
+  <td>🥇 <b>National Winner – AI Innovation Track</b></td>
+</tr>
+<tr>
+  <td>2026</td>
+  <td>Flipkart Grid</td>
+  <td>🏅 <b>National Finalists – Product Engineering</b></td>
+</tr>
+<tr>
+  <td>2026</td>
+  <td>SmartHack</td>
+  <td>💡 <b>Top 10 – Full Stack Solution Design</b></td>
+</tr>
+</table>
+
+---
+
+<!-- PROJECTS -->
+<h2 align="center">📂 Featured Projects</h2>
+
+<table align="center">
+<tr>
+  <th>Project</th>
+  <th>Description</th>
+  <th>Tech Stack</th>
+</tr>
+<tr>
+  <td><a href="https://github.com/Hacktopus404/hacktopus-showcase">🚀 hacktopus-showcase</a></td>
+  <td>Main project repository for hackathon submissions & showcases</td>
+  <td>MERN + Spring Boot</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Hacktopus404/ai-core">🤖 ai-core</a></td>
+  <td>Core AI/ML research, GenAI training pipelines, model deployment</td>
+  <td>Python • TensorFlow • Transformers</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Hacktopus404/backend">🧱 backend</a></td>
+  <td>Microservice-based backend architecture for APIs & logic</td>
+  <td>Spring Boot • MongoDB</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Hacktopus404/frontend">💻 frontend</a></td>
+  <td>UI/UX development, animation & responsive design</td>
+  <td>React • Tailwind CSS</td>
+</tr>
+</table>
+
+---
+
+<!-- TEAM -->
+<h2 align="center">👥 Our Team</h2>
+
+<p align="center">
+  <a href="https://github.com/Asmit159"><img src="https://avatars.githubusercontent.com/Asmit159" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/amritmondal9641-arch"><img src="https://avatars.githubusercontent.com/amritmondal9641-arch" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/Jit338"><img src="https://avatars.githubusercontent.com/Jit338" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/AdityaDas5501"><img src="https://avatars.githubusercontent.com/AdityaDas5501" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/Kishalaya15"><img src="https://avatars.githubusercontent.com/Kishalaya15" width="100" style="border-radius:50%; margin:10px;"/></a>
+</p>
+
+<table align="center">
+<tr>
+  <th>Name</th>
+  <th>Role</th>
+  <th>Focus Area</th>
+</tr>
+<tr>
+  <td>🧑‍💻 <b>Asmit Mandal</b></td>
+  <td>Team Lead & Backend Architect</td>
+  <td>System Design • Spring Boot • AI</td>
+</tr>
+<tr>
+  <td>👩‍💻 <b>Amrit Mondal</b></td>
+  <td>AI/ML Lead & Co-Lead</td>
+  <td>GenAI • TensorFlow • NLP • LLMs</td>
+</tr>
+<tr>
+  <td>👨‍🎨 <b>Aditya Das</b></td>
+  <td>Frontend Lead</td>
+  <td>React • Tailwind CSS • Angular</td>
+</tr>
+<tr>
+  <td>👨‍🔧 <b>Jit Mondal</b></td>
+  <td>Full Stack Engineer</td>
+  <td>Spring Boot • MongoDB • React</td>
+</tr>
+<tr>
+  <td>👩‍🔧 <b>Kishalaya Maji</b></td>
+  <td>Frontend Engineer</td>
+  <td>JavaScript • React • UI/UX</td>
+</tr>
+</table>
+
+---
+
+<!-- CONTRIBUTION -->
+<h2 align="center">🧩 Contribution Guidelines</h2>
+
 ```markdown
-0. Contact the maintainer for forking the repo
-1. Fork the repo only after written permission 🍴
-2. Create a feature branch (`feature/new-idea`)
-3. Commit with meaningful messages
-4. Open a Pull Request 🚀
-5. Tag reviewers using @team
+1️⃣ Contact the maintainer for forking permissions 🤝  
+2️⃣ Fork only after approval 🍴  
+3️⃣ Create a feature branch: `feature/amazing-idea`  
+4️⃣ Commit meaningful messages ✍️  
+5️⃣ Open a Pull Request 🚀  
+6️⃣ Tag reviewers using @Hacktopus404/team 👥
 ```
-### 🌐 Connect with Us
-<p align="center">
-  <a href="https://hacktopus404.github.io/hacktopus-showcase"><img src="https://img.shields.io/badge/🌎_Website-Visit-blue?style=for-the-badge"/></a>
-  <a href="mailto:hacktopus404@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-hacktopus404.team@gmail.com-red?style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/asmit-mandal"><img src="https://img.shields.io/badge/LinkedIn-Asmit_Mandal-blue?style=for-the-badge&logo=linkedin"/></a>
-</p>
 
----
-### 💫 Fun Fact
-> “We don’t chase deadlines — we **bend time zones** and **merge PRs at 3 AM** 🌙”
+<p align="center"> <img src="https://img.shields.io/badge/Open%20Source-Contributors%20Welcome-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-Automated-blue?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Code%20of%20Conduct-Active-orange?style=for-the-badge&logo=commitlint"/> </p>
+
+<!-- CONNECT --> <h2 align="center">🌐 Connect With Us</h2> <p align="center"> <a href="https://hacktopus404.github.io/hacktopus-showcase"><img src="https://img.shields.io/badge/🌎_Website-Visit_Now-blue?style=for-the-badge"/></a> <a href="mailto:hacktopus404.team@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-hacktopus404.team@gmail.com-red?style=for-the-badge"/></a> <a href="https://linkedin.com/in/asmit-mandal"><img src="https://img.shields.io/badge/LinkedIn-Asmit_Mandal-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+<!-- FUN FACT --> <h2 align="center">💫 Fun Fact</h2> <p align="center"> <i>“We don’t chase deadlines — we <b>bend time zones</b> and <b>merge PRs at 3 AM</b> 🌙”</i> </p>
