@@ -122,9 +122,13 @@
 <p align="center">
   <a href="https://github.com/Asmit159"><img src="https://avatars.githubusercontent.com/Asmit159" width="100" style="border-radius:50%; margin:10px;"/></a>
   <a href="https://github.com/amritmondal9641-arch"><img src="https://avatars.githubusercontent.com/amritmondal9641-arch" width="100" style="border-radius:50%; margin:10px;"/></a>
-  <a href="https://github.com/Jit338"><img src="https://avatars.githubusercontent.com/Jit338" width="100" style="border-radius:50%; margin:10px;"/></a>
   <a href="https://github.com/AdityaDas5501"><img src="https://avatars.githubusercontent.com/AdityaDas5501" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/Jit338"><img src="https://avatars.githubusercontent.com/Jit338" width="100" style="border-radius:50%; margin:10px;"/></a>
   <a href="https://github.com/Kishalaya15"><img src="https://avatars.githubusercontent.com/Kishalaya15" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/raajashreeroy05"><img src="https://avatars.githubusercontent.com/raajashreeroy05" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/ShreyaY11"><img src="https://avatars.githubusercontent.com/ShreyaY11" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/bp02-star"><img src="https://avatars.githubusercontent.com/bp02-star" width="100" style="border-radius:50%; margin:10px;"/></a>
+  <a href="https://github.com/jaganmohanchukka"><img src="https://avatars.githubusercontent.com/jaganmohanchukka" width="100" style="border-radius:50%; margin:10px;"/></a>
 </p>
 
 <table align="center">
@@ -135,12 +139,12 @@
 </tr>
 <tr>
   <td>🧑‍💻 <b>Asmit Mandal</b></td>
-  <td>Team Lead & Backend Architect</td>
+  <td>Team Lead & Backend Lead</td>
   <td>System Design • Spring Boot • AI</td>
 </tr>
 <tr>
   <td>👩‍💻 <b>Amrit Mondal</b></td>
-  <td>AI/ML Lead & Co-Lead</td>
+  <td>Team Co-Lead & AI/ML Lead</td>
   <td>GenAI • TensorFlow • NLP • LLMs</td>
 </tr>
 <tr>
@@ -158,6 +162,28 @@
   <td>Frontend Engineer</td>
   <td>JavaScript • React • UI/UX</td>
 </tr>
+<tr>
+  <td>👩‍🦰 <b>Raajashree Roy</b></td>
+  <td>Backend Engineer</td>
+  <td>JavaScript • Node.js • MongoDB </td>
+</tr>
+<tr>
+  <td>👩 <b>Shreya Yadav</b></td>
+  <td>Frontend Engineer</td>
+  <td>CSS • React • JavaScript • Angular</td>
+<tr>
+  <td>👩 <b>Brinda Pal</b></td>
+  <td>AI/ML Engineer</td>
+  <td>GenAI • TensorFlow • NLP • LLMs</td>
+</tr>  
+<tr>
+  <td>👩‍💻 <b>Jaganmohan Chukka</b></td>
+  <td>Frontend Engineer</td>
+  <td>CSS • React • JavaScript • Angular</td>
+</tr>  
+</tr>
+
+  
 </table>
 
 ---
@@ -176,5 +202,5 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/Open%20Source-Contributors%20Welcome-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-Automated-blue?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Code%20of%20Conduct-Active-orange?style=for-the-badge&logo=commitlint"/> </p>
 
-<!-- CONNECT --> <h2 align="center">🌐 Connect With Us</h2> <p align="center"> <a href="https://hacktopus404.github.io/hacktopus-showcase"><img src="https://img.shields.io/badge/🌎_Website-Visit_Now-blue?style=for-the-badge"/></a> <a href="mailto:hacktopus404.team@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-hacktopus404.team@gmail.com-red?style=for-the-badge"/></a> <a href="https://linkedin.com/in/asmit-mandal"><img src="https://img.shields.io/badge/LinkedIn-Asmit_Mandal-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+<!-- CONNECT --> <h2 align="center">🌐 Connect With Us</h2> <p align="center"> <a href="https://hacktopus404.github.io/hacktopus-showcase"><img src="https://img.shields.io/badge/🌎_Website-Visit_Now-blue?style=for-the-badge"/></a> <a href="mailto:hacktopus404.team@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-hacktopus404.team@gmail.com-red?style=for-the-badge"/></a> <a href="https://linkedin.com/in/asmit mandal"><img src="https://img.shields.io/badge/LinkedIn-Asmit Mandal-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 <!-- FUN FACT --> <h2 align="center">💫 Fun Fact</h2> <p align="center"> <i>“We don’t chase deadlines — we <b>bend time zones</b> and <b>merge PRs at 3 AM</b> 🌙”</i> </p>
