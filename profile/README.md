@@ -202,5 +202,7 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/Open%20Source-Contributors%20Welcome-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-Automated-blue?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Code%20of%20Conduct-Active-orange?style=for-the-badge&logo=commitlint"/> </p>
 
-<!-- CONNECT --> <h2 align="center">🌐 Connect With Us</h2> <p align="center"> <a href="https://hacktopus404.github.io/hacktopus-showcase"><img src="https://img.shields.io/badge/🌎_Website-Visit_Now-blue?style=for-the-badge"/></a> <a href="mailto:hacktopus404.team@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-hacktopus404.team@gmail.com-red?style=for-the-badge"/></a> <a href="https://linkedin.com/in/asmit mandal"><img src="https://img.shields.io/badge/LinkedIn-Asmit Mandal-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+<!-- CONNECT --> <h2 align="center">🌐 Connect With Us</h2> <p align="center"> <a href="https://hacktopus404.github.io/hacktopus-showcase"><img src="https://img.shields.io/badge/🌎_Website-Visit_Now-blue?style=for-the-badge"/></a> <a href="mailto:hacktopus404.team@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-hacktopus404.team@gmail.com-red?style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/asmit-mandal-aa300a374">
+  <img src="https://img.shields.io/badge/LinkedIn-Asmit%20Mandal-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> </p>
 <!-- FUN FACT --> <h2 align="center">💫 Fun Fact</h2> <p align="center"> <i>“We don’t chase deadlines — we <b>bend time zones</b> and <b>merge PRs at 3 AM</b> 🌙”</i> </p>
